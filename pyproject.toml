@@ -7,4 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "httpx>=0.28.1",
+    "python-slugify>=8.0.4",
 ]
